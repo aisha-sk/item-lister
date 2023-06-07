@@ -4,8 +4,8 @@
 }
 
 .row {
-    padding-left: 300px;
-    padding-right:300px;
+    padding-left: 100px;
+    padding-right:100px;
     padding-top:30px;
     padding-bottom:30px;
     display:flex;
@@ -33,8 +33,8 @@
 
 .card {
     display:flex;
-    padding-left:450px;
-    padding-right:300px;
+    padding-left:100px;
+    padding-right:100px;
     padding-top:50px;
     padding-bottom:50px;
     font-size:20px;
