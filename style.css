@@ -11,7 +11,7 @@
     display:flex;
     justify-content:space-between;
     align-items:center;
-    background-color:rgb(175, 215, 161);
+    background-color:rgba(0, 16, 64, 0.508);
     flex-shrink:1;
     font-family: Arial, Helvetica, sans-serif;
     color:white;
